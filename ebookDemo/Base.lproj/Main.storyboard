@@ -461,7 +461,7 @@
                             <tableViewSection id="J36-Nl-ioh">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="40" id="vx7-yj-5F5">
-                                        <rect key="frame" x="0.0" y="496" width="414" height="40"/>
+                                        <rect key="frame" x="0.0" y="618" width="414" height="40"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="vx7-yj-5F5" id="rPD-Bc-n4F">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="40"/>
@@ -490,7 +490,7 @@
                                         <color key="backgroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="166" id="v04-cL-T6x">
-                                        <rect key="frame" x="0.0" y="536" width="414" height="166"/>
+                                        <rect key="frame" x="0.0" y="658" width="414" height="166"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="v04-cL-T6x" id="HES-D3-Mj8">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="166"/>
@@ -622,7 +622,7 @@
                             <tableViewSection id="WSM-h4-FvV">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="40" id="Uot-Yq-MiH">
-                                        <rect key="frame" x="0.0" y="780" width="414" height="40"/>
+                                        <rect key="frame" x="0.0" y="902" width="414" height="40"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Uot-Yq-MiH" id="bdX-Zw-FrP">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="40"/>
@@ -651,7 +651,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="166" id="zW1-Ce-eyT">
-                                        <rect key="frame" x="0.0" y="820" width="414" height="166"/>
+                                        <rect key="frame" x="0.0" y="942" width="414" height="166"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="zW1-Ce-eyT" id="Tj0-Hq-5Rg">
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="166"/>
@@ -791,7 +791,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Li2-up-x2U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3673.913043478261" y="-592.29910714285711"/>
+            <point key="canvasLocation" x="2764" y="-496"/>
         </scene>
         <!--類別-->
         <scene sceneID="vI8-88-Isk">
@@ -965,7 +965,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dUc-yf-ntF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3558" y="63"/>
+            <point key="canvasLocation" x="2767" y="66"/>
         </scene>
         <!--非小說-->
         <scene sceneID="xCg-5X-tV3">
@@ -1135,7 +1135,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IoU-Vx-Au4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5192.753623188406" y="65.625"/>
+            <point key="canvasLocation" x="4625" y="66"/>
         </scene>
         <!--人生煩惱相談室-->
         <scene sceneID="Jg3-K0-5sw">
@@ -1243,7 +1243,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xT5-fc-JZO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6320" y="66"/>
+            <point key="canvasLocation" x="5714" y="65"/>
         </scene>
         <!--人生煩惱相談室-->
         <scene sceneID="GE2-Sd-m30">
@@ -1279,7 +1279,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="V0v-mv-hNi" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="7286.9565217391309" y="65.625"/>
+            <point key="canvasLocation" x="6770" y="66"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="1Q3-40-I2L">
@@ -1625,7 +1625,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fAo-AU-vR8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2892.753623188406" y="795.53571428571422"/>
+            <point key="canvasLocation" x="2765" y="797"/>
         </scene>
         <!--我是黃，也是白-->
         <scene sceneID="2Zl-5X-qWj">
@@ -1668,7 +1668,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hA3-AV-hzX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3937.68115942029" y="758.70535714285711"/>
+            <point key="canvasLocation" x="3687" y="759"/>
         </scene>
         <!--人類煩惱相談室-->
         <scene sceneID="7Pl-Vr-qzX">
@@ -2203,10 +2203,20 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <searchBar contentMode="redraw" fixedFrame="YES" placeholder="書籍名稱" translatesAutoresizingMaskIntoConstraints="NO" id="10l-v8-6qD">
-                                <rect key="frame" x="31" y="133" width="348" height="44"/>
+                            <searchBar opaque="NO" contentMode="redraw" fixedFrame="YES" searchBarStyle="minimal" placeholder="書籍名稱" translucent="NO" translatesAutoresizingMaskIntoConstraints="NO" id="10l-v8-6qD">
+                                <rect key="frame" x="31" y="121" width="348" height="56"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <textInputTraits key="textInputTraits"/>
+                                <scopeButtonTitles>
+                                    <string>Title</string>
+                                    <string>Title</string>
+                                </scopeButtonTitles>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="searchTextField.backgroundColor">
+                                        <color key="value" systemColor="systemGray5Color"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                             </searchBar>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Pt2-kK-UyR"/>
@@ -2241,7 +2251,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5yL-Nc-hSh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2586" y="852"/>
+            <point key="canvasLocation" x="-1128" y="1013"/>
         </scene>
         <!--閱讀中-->
         <scene sceneID="kej-Vz-48X">
@@ -2316,9 +2326,12 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="avo-r3-3OV">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
                         <navigationBarAppearance key="standardAppearance">
-                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         </navigationBarAppearance>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -2341,9 +2354,12 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ZMy-ES-Lz6">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
                         <navigationBarAppearance key="standardAppearance">
                             <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         </navigationBarAppearance>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -2410,6 +2426,9 @@
         <image name="star.fill" catalog="system" width="128" height="116"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray5Color">
+            <color red="0.89803921568627454" green="0.89803921568627454" blue="0.91764705882352937" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
